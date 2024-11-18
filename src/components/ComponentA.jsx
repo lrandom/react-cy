@@ -23,7 +23,7 @@ class ComponentA extends React.Component {
     componentWillUnmount() {
         console.log('Component A will unmount")');
     }
-    
+
 
     render() {
         return (
